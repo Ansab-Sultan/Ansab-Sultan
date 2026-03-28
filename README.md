@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/ansab-sultan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Ansab-Sultan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -93,15 +90,6 @@ Transforms raw story content into an interactive knowledge graph (Neo4j) with hy
 | [CIFAR-10 Image Classification](https://github.com/Ansab-Sultan/Image-Classification/tree/main/CIFAR-10%20Classification) | Deep learning classifier on the CIFAR-10 benchmark |
 
 👉 [View all repositories →](https://github.com/Ansab-Sultan?tab=repositories)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansab-Sultan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansab-Sultan&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
 
 ---
 
